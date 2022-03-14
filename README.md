@@ -2,7 +2,7 @@
 <br>
 
 I am an Undergraduate Student
-pursuing my B.Tech from Heritage Institute of Technology, Kolkata
+pursuing my B.Tech from Dr. Balasaheb Ambedkar Technological Univercity, Raigad
 
 <br>
 
