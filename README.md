@@ -7,7 +7,7 @@ pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere R
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ashwininagargoje703/Ashwininagargoje703/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Full Stack Web Development at Masai School
