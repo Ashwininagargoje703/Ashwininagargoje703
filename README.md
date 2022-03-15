@@ -10,7 +10,7 @@ pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere R
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Full Stack Web Development at Masai School
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: ashwininagargoje703@gmail.com
 - 
