@@ -2,7 +2,7 @@
 <br>
 
 I am an Undergraduate Student
-pursuing my B.Tech from Dr. Balasaheb Ambedkar Technological Univercity, Raigad
+pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere Raigad
 
 <br>
 
@@ -34,27 +34,23 @@ pursuing my B.Tech from Dr. Balasaheb Ambedkar Technological Univercity, Raigad
 
 <br>
 
-##### I am currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
 
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikatewary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwini&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ashwini Nagargoje Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwininagargoje&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwininagargoje&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 
 ### Lets connect through:
 <a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+
 <a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 
 
 
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
+
+[resume]:https://drive.google.com/file/d/1z1vGOii-KUC9BCFu-sSWAJzJSIGH6yVq/view?usp=sharing
