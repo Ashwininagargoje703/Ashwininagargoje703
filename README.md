@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashwini 👩‍💻</h1>
-<br>
+
 <h3 align="center">Student at Masai School🌟.</h3>
+<br>
  I recently graduated in Electrical Engineering(B.Tech) from Dr.Babasaheb Ambedkar Technological University,Lonere Raigad
 <!-- <br> -->
 <span align="left"><h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=Ashwininagargoje703&label=Profile%20views&color=0e75b6&style=plastic" alt="Ashwininagargoje703" /> </span>
