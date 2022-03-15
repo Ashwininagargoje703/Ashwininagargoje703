@@ -1,11 +1,88 @@
-A multipotentialite research assistant who is currently working on Fog Computing and Blockchain scalability at NMSU. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging research problems.
-
-
-![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
-![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
+📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+-->
 
 -----
-Credits: [emrahsariboz](https://github.com/emrahsariboz)
+Credits: [ABSphreak](https://github.com/ABSphreak)
+
+Last Edited on: 30/08/2020
+  3  AlexMartinFR.md 
+@@ -24,5 +24,6 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
+- 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
+
+-----
+Credits: [AlexMartinFR](https://github.com/AlexMartinFR))
+Credits: [AlexMartinFR](https://github.com/AlexMartinFR)
+
+Last Edited on: 30/08/2020
+  7  ChungZH.md 
+@@ -15,4 +15,9 @@
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+
+
+###### 💾 EOF
+###### 💾 EOF
+
+-----
+Credits: [ChungZH](https://github.com/ChungZH)
+
+Last Edited on: 30/08/2020
+  7  CyrisXD.md 
+@@ -13,4 +13,9 @@ Here are some ideas to get you started:
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+-->
+
+-----
+Credits: [CyrisXD](https://github.com/CyrisXD)
+
+Last Edited on: 30/08/2020
+  7  DennisHartrampf.md 
+@@ -25,4 +25,9 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
+
+-----
+Credits: [DennisHartrampf](https://github.com/DennisHartrampf)
+
+Last Edited on: 30/08/2020
+ 7  MasonSlover.md 
+@@ -1 +1,6 @@
+<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
+
+-----
+Credits: [MasonSlover](https://github.com/MasonSlover)
+
+Last Edited on: 30/08/2020
+  3  abhisheknaiidu.md 
+@@ -68,4 +68,7 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
+
+</details>
+
+-----
+Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
+
+Last Edited on: 30/08/2020
+  7  amxchang.md 
+@@ -10,4 +10,9 @@ For my programming projects, I usually only upload to Github once I make signifi
+- 💬 Ask me about fountain pens.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
+
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+Credits: [amxchang](https://github.com/amxchang)
+
+Last Edited on: 30/08/2020
 
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini 👩‍💻</h1>
