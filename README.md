@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini 👩‍💻</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashwini 👩‍💻</h1>
 <br>
-
-I am an Undergraduate Student
-pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere Raigad
+<h3 align="center">Student at Masai School🌟.</h3>
+ I recently graduated in Electrical Engineering(B.Tech) from Dr.Babasaheb Ambedkar Technological University,Lonere Raigad
 <!-- <br> -->
 <span align="left"><h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=Ashwininagargoje703&label=Profile%20views&color=0e75b6&style=plastic" alt="Ashwininagargoje703" /> </span>
 <!-- <p align="center"> 
@@ -30,7 +29,7 @@ pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere R
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>.
     
 </p>
 
@@ -50,24 +49,14 @@ pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere R
 <!-- ### Lets connect through: -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adam pithewan" target="blank"><img align="center"
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+
+ <a href="https://www.linkedin.com/in/ashwini-nagargoje-259b5122b/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
 
 
 
