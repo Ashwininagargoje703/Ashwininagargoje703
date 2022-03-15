@@ -51,4 +51,4 @@ pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere R
 
 
 
-[resume]:https://drive.google.com/file/d/1z1vGOii-KUC9BCFu-sSWAJzJSIGH6yVq/view?usp=sharing
+[resume]:https://drive.google.com/file/d/1z1vGOii-KUC9BCFu-sSWAJzJSIGH6yVq/view?usp=sharing.
