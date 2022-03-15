@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini 👩‍<span><img src="https://komarev.com/ghpvc/?username=Ashwininagargoje703&label=Profile%20views&color=0e75b6&style=plastic" alt="Ashwininagargoje703" /> </span>💻</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini 👩‍💻<span><img src="https://komarev.com/ghpvc/?username=Ashwininagargoje703&label=Profile%20views&color=0e75b6&style=plastic" alt="Ashwininagargoje703" /> </span></h1>
 <br>
 
 I am an Undergraduate Student
