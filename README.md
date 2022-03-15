@@ -1,13 +1,11 @@
-@@ -62,4 +62,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
+A multipotentialite research assistant who is currently working on Fog Computing and Blockchain scalability at NMSU. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging research problems.
+
+
+![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
+![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
+Credits: [emrahsariboz](https://github.com/emrahsariboz)
 
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwini 👩‍💻</h1>
