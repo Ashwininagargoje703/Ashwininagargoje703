@@ -6,7 +6,11 @@ I am an Undergraduate Student
 pursuing my B.Tech from Dr.Babasaheb Ambedkar Technological University, Lonere Raigad
 
 <br>
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Ashwininagargoje703&label=Profile%20views&color=0e75b6&style=plastic" alt="Ashwininagargoje703" /> 
+	<a href = "https://commits.top/india.html" target="_blank">
+	</a>
+</p>
 <img align="right" alt="GIF" src="https://github.com/Ashwininagargoje703/Ashwininagargoje703/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
