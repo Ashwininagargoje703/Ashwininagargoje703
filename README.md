@@ -13,7 +13,7 @@
 	</a>
 </p> -->
 <img align="right" alt="GIF" src="https://github.com/Ashwininagargoje703/Ashwininagargoje703/blob/main/giphy.gif" width="500" height="320" />
-<br>
+
 <h3>About me :- </h3>
 
 - ✍ You can find my resume here [Resume]
