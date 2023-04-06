@@ -87,5 +87,5 @@
  -->
 
 
-[resume]:https://drive.google.com/file/d/1z1vGOii-KUC9BCFu-sSWAJzJSIGH6yVq/view?usp=sharing.
+[resume]:https://drive.google.com/drive/folders/1GHjBaSgCKpSB73A50-bNVYulySYCpWNx
 [Portfolio]:https://monumental-horse-2e32d2.netlify.app/
