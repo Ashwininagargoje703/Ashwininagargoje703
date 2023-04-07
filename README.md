@@ -4,9 +4,7 @@
 <h3 align="center">Full Stack Web Developer🌟.</h3>
 <br>
  I recently graduated in Electrical Engineering(B.Tech) from Dr.Babasaheb Ambedkar Technological University,Lonere Raigad
- <br>
- 
- Observant and detail-oriented experiencerd full-stack developer with a specialization in MERN stack. Looking for a challenging role in an organization, which can provide opportunities to enhance my skills and expand my knowledge in this field
+ Observant and detail-oriented experiencerd full-stack developer with a specialization in MERN stack.
 <!-- <br> -->
  <span align="left"><h3>Profile Views :-</h3><img src="http://hits.dwyl.com/Ashwininagargoje703/ABSphreak.svg"></span> 
 
