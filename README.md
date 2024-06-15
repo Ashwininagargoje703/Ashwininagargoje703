@@ -18,7 +18,7 @@
 
 <h3>About me :- </h3>
 
-- ✍ You can find my resume here [Resume]
+
 - 🌱 I’m currently learning Full Stack Web Development at Masai School
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: ashwininagargoje703@gmail.com
