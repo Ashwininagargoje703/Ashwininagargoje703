@@ -73,6 +73,7 @@ I am an observant and detail-oriented full-stack developer specializing in the M
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwininagargoje703&show_icons=true&theme=radical) <a href="https://github.com/Ashwininagargoje703/github-readme-stats"><img alt="Ashwininagargoje703 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwininagargoje703&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwininagargoje703&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
