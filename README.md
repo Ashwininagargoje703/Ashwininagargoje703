@@ -4,7 +4,6 @@
 <h3 align="center">Full Stack Web Developer🌟</h3>
 <br>
  <br>
- <br>
  
 I am an observant and detail-oriented full-stack developer specializing in the MERN stack, with extensive experience in building robust and scalable web applications. Additionally, I am actively working and aspiring to be a proficient blockchain developer. 
 <!-- <br> -->
